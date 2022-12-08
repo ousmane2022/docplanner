@@ -1,0 +1,43 @@
+li{
+    display: inline;
+    margin-right: 5px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.logotext{
+    text-align: center;
+    margin-top: 15px;
+}
+.alignetext{
+    display: flex;
+}
+.encolone{
+    background-color:#00CCB1;
+    width: 25%;
+    height: 350px;
+    border-radius: 7px;
+}
+.alignetext2{
+    display: flex;
+}
+.encolone2{
+    background-color:#3D83DF;
+    width: 25%;
+    height: 350px;
+    border-radius: 7px;
+}
+.alignetext3{
+    display: flex;
+}
+.encolone3{
+    background-color:#323D49;
+    width: 25%;
+    height: 350px;
+    border-radius: 7px
+}
+.pricipale{
+    display: flex;
+    justify-content: space-between;
+}
